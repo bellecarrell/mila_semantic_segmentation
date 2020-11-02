@@ -1,0 +1,13 @@
+DATA:
+  root: "./datasets/"
+  val_split: 0.1
+  val_dir: "val"
+  test_split: 0.1
+  test_dir: "test"
+  shuffle: True
+
+MODELS:
+
+
+ETC:
+  random_seed: 42
